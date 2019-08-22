@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+
+    <string-array name="condicoes">
+        <item>Abaixo do peso</item>
+        <item>No peso normal</item>
+        <item>Marginalmente acima do peso</item>
+        <item>Acima do peso ideal</item>
+        <item>Obeso</item>
+    </string-array>
+
+</resources>
